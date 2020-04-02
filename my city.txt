@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>
+        My Favorite City
+    </title>
+</head>
+
+<Body>
+    <h1>Indianapolis</h1>
+    <img alt="Image result for indianapolis monument circle pictures" class="n3VNCb"
+        src="https://media.istockphoto.com/photos/aerial-view-of-indianapolis-downtown-indiana-picture-id1202952168?k=6&amp;m=1202952168&amp;s=612x612&amp;w=0&amp;h=540Dye2_FqQFiwtVYXllpvCEYMwQvOzmUCMg_S1dhos="
+        data-noaft="1" style="width: 1050px; height: 300.205px; margin: 1px;">
+    <h2>
+        Fun things to do
+    </h2>
+    <p>There are plenty of things to do in my city in any season!!</p>
+    <Table>
+        <tr>
+            <th>Seasons</th>
+            <th>Places</th>
+            <th>Things to Do</th>
+        </tr>
+        <tr>
+            <td>
+                Spring
+
+            </td>
+            <td>
+                <img src="https://www.ratiodesign.com/sites/default/files/styles/detail_full_header/public/project/large/header-project-indiana-state-museum_0.jpg?itok=Vgmtkp-A"
+                    alt="indianapolis state museum" width="100">
+                <a href="https://www.indianamuseum.org/">
+                    indianamuseum
+                </a>
+            </td>
+
+            <td>
+                <ul>
+                    <li> Explore Exhibits</li>
+                    <li>Watch a Movie</li>
+                    <li>Walk along the Canal</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Summer
+            </td>
+            <td>
+                <img src="https://24mrml1fdins2df2zl7ihex1-wpengine.netdna-ssl.com/wp-content/uploads/2018/06/27907889_2040533226192300_4258740075296852480_o-539x303.jpg"
+                    alt="handle bar bike" width="100">
+                <a href="https://handlebarindy.com/">
+                    handlebarindy
+                </a>
+
+            </td>
+            <td>
+                <ul>
+                    <li>People watch</li>
+                    <li>Bar Hop</li>
+                    <li>Hang out with Friends</li>
+                </ul>
+            </td>
+
+        </tr>
+
+        <tr>
+            <td>
+                Fall
+            </td>
+            <td>
+                <img src="https://upload.wikimedia.org/wikipedia/en/c/c0/Funky_Bones.jpg"
+                    alt="indianapolis museum of art" width="100">
+                <a href="https://www.discovernewfields.org/">
+                    newfields
+                </a>
+            </td>
+
+            <td>
+                <uL>
+                    <li> Book and Movie Triva</li>
+                    <li> Art and Nature</li>
+                    <li>Take a Class</li>
+                </uL>
+            </td>
+        </tr>
+
+        <tr>
+            <td>
+                Winter
+            </td>
+            <td>
+                <img src="https://www.indianapoliszoo.com/wp-content/uploads/2018/04/CATZ2018-3.jpg"
+                    alt="Indianapolis Zoo" width="100">
+                <a href="https://www.indianapoliszoo.com/">
+                    indianapoliszoo
+                </a>
+
+
+
+            </td>
+            <td>
+                <ul>
+                    <li>Penguin Encounter</li>
+                    <li>Tunnel of Lights</li>
+                    <li>Campfires</li>
+                </ul>
+            </td>
+
+
+
+
+        </tr>
+
+
+
+    </Table>
+
+    <p>You can reach Me at:</p>
+    
+    <ul>
+        <li><a href="file:///C:/Users/cynth/OneDrive/Documents/boutme.html">Website</a></li>
+        <li><a href="mailto:cynthiacummins88@gmail.com">Email</a></li>
+        <li><a href="tel:+13178002215">Phone</a></li>
+    </ul>
+    <form>
+        <button>Like</button>
+    </form>
+
+
+
+</Body>
+<form method="post" action="http://"><textarea name="comments" cols="30" rows="5"
+        class="html-text-box">Comments here...</textarea><br><input type="submit" value="Submit"
+        class="html-text-box"><input type="reset" value="Reset" class="html-text-box">
+</form>
+
+</html>
